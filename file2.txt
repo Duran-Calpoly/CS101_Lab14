@@ -1,0 +1,1 @@
+{"Username":"kduran02","Email":"kduran02@calpoly.edu","Password":"Pa$$W0rd!!", "Phone":"123-456-7890"}
