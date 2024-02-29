@@ -1,7 +1,7 @@
-"""Task1: Go find the file paths for the 3 files I provided you. 
+"""Task1: Go find the relative file paths for the 3 files I provided you. 
 And save them as strings. If your on windows put an r'before_the_filepath'
-Should look something like:
-file_path = '/Users/kduran02/Documents/CS/Winter24/CS101/Lab14/lab14.txt'. But for your own machine"""
+Should look something like: 'file.txt'"""
+
 
 file_path1 = ''
 file_path2 = ''
