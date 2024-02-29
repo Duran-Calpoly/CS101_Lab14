@@ -28,7 +28,7 @@ For the second file, `file2.txt`, you'll need to read the file and then parse it
 
 ### Task 4: Error Handling with File Operations
 
-Attempt to open a non-existent file (or one that is expected to cause an error upon reading, such as `badfile.pdf`). Use a try-except block to handle the error appropriately. If an error occurs, your function should return the message `'Error: Can't Read file'`.
+Attempt to open a bad file (or one that is expected to cause an error upon reading, such as `badfile.pdf`). Use a try-except block to handle the error appropriately. If an error occurs, your function should return the message `'Error: Can't Read file'`.
 
 
 ## Submission Guidelines
